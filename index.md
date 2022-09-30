@@ -3,3 +3,6 @@
 ```
 $ echo "Hello World"
 ```
+- [x] Finish Introduction to GitHub
+- [ ] Finish Day One Skills Courses
+- [ ] Make Portfolio
